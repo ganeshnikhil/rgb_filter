@@ -7,8 +7,8 @@ This script allows you to apply various filters to an image file.
 
 
    Input          output
-|--------------|--------------|
-<img src="sample/1.jpg" width = "500"/>|<img src="sample/2.jpg" width = "500"/>|
+|--------------|-------------|
+<img src="sample/1.jpg" width = "400"/>|<img src="sample/2.jpg" width = "400"/>|
 
 ###  Installation
 
