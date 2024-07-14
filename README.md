@@ -5,6 +5,11 @@ different rib filters implemented in python
 
 This script allows you to apply various filters to an image file. 
 
+
+   Input         output
+|--------------|-------------|
+<img src="img/test.jpg" width = "400"/>|
+
 ###  Installation
 
 This script requires the following Python libraries:
